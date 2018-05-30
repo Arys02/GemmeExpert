@@ -1,0 +1,11 @@
+Step 0 : Init	 ---------------- [ ]
+	[ ] - Setups files
+	[ ] - Make git	   
+Step 1 : DataSet ---------------- [ ]
+	[ ] - Importe correctly exel
+	[ ] - Exel to csv 
+	[ ] - Clean csv and extract info from description text
+Step 2 : ML      ---------------- [ ]
+	[ ] - Write regression algorythme
+	[ ] - Train
+	[ ] - Test
