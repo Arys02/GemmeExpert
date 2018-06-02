@@ -1,10 +1,14 @@
 Step 0 : Init	 ---------------- [ ]
-	[ ] - Setups files
-	[ ] - Make git	   
+	[X] - Setups files
+	[X] - Make git	   
 Step 1 : DataSet ---------------- [ ]
-	[ ] - Importe correctly exel
-	[ ] - Exel to csv 
-	[ ] - Clean csv and extract info from description text
+	[X] - Importe correctly exel
+	[X] - Exel to csv 
+	[X] - Run on folder
+	[ ] - Clean csv
+	[ ] - Clean Headers
+	[ ] - Remplace innexistant value
+	[ ] - Exctract Description infos
 Step 2 : ML      ---------------- [ ]
 	[ ] - Write regression algorythme
 	[ ] - Train
